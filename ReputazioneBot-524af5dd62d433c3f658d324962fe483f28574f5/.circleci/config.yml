@@ -32,4 +32,4 @@ workflows:
     jobs:
       - build-and-test
 
-mvn -f path/to/pom.xml <RepBot/ReputazioneBot-524af5dd62d433c3f658d324962fe483f28574f5/>
+
